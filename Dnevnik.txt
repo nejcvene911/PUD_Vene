@@ -1,0 +1,16 @@
+Naloga: FTP server, Python, VCS, SVN, GIT, mercurial                                                                                              
+Povzetek razlage in navodil: Prvi dan je bila naloga da vzpostavimo FTP server. FTP server  je del programske opreme, ki se izvaja v računalniku in uporablja protokol za prenos datotek za shranjevanje in skupno rabo datotek.
+Drugi dan smo morali narediti v pythonu program ki bo preveril informacije porabe diska.
+Tretji dan smo morali pa narediti program ki bo zmožen zapisovati in brati .txt datoteko z pomočjo komand read and write.
+Četrti dan smo morali raziskati kaj je VCS, SVN, git, mercurial in njihove prednosti oz slabosti.
+VCS so sistemi za nadzor različic so kategorija programskih orodij, ki pomagajo beležiti spremembe datotek, tako da beležijo spremembe v kodi. Razlika centraliziranega od porazdeljenega sistema je, da deluje na relaciji odjemalec-strežnik. Skladišče se nahaja na enem mestu in omogoča dostop številnim strankam. Medtem ko ima vsak uporabnik v porazdeljenem sistemu poleg osrednjega repoja na strani strežnika tudi lokalno kopijo repozitorija.
+Peti dan smo morali vstvariti git account in vse združiti skupaj.
+
+
+
+
+
+Naloga: API vmesnik, Json, Parsing, IP naslov, port skaner, subnet mask, python, XML, TCP                                                                                            
+Povzetek razlage in navodil: prvi dan v drugem tednu sma se morala pozanimati o API vmesnikih. API-ji ali vmesniki aplikacijskih programov so ključna orodja za podjetja v vseh panogah. Pomembnost API-jev s tehničnega stališča omogočajo, da zmogljivosti enega računalniškega programa uporablja drug. So sredstvo, s pomočjo katerega sta dva različna programa sposobna komunicirati. Poiskal sem svoj public IP naslov. IP naslov internetnega protokola je številčna nalepka, dodeljena vsaki napravi, priključeni v računalniško omrežje, ki za komunikacijo uporablja internetni protokol. Pogledali smo si pa tudi port scanning, Json, Parsing ter subnet mask.
+Drugi dan smo v Pythonu probali poklicat naš prvi API in se z njimi poigrati ter narediti kodo da bo izpisane podatke zapisalo v txt datoteko , napisati sem moral tudi obnovo vsega kar sem do zdaj naredil.
+Tretji dan sem še nadgradil python kodo tako da sem dodal da se lahko datoteki spreminja ime glede na datum dneva.
