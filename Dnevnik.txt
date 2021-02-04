@@ -1,0 +1,7 @@
+Naloga: FTP server, Python, VCS, SVN, GIT, mercurial                                                                                              
+Povzetek razlage in navodil: Prvi dan je bila naloga da vzpostavimo FTP server. FTP server  je del programske opreme, ki se izvaja v računalniku in uporablja protokol za prenos datotek za shranjevanje in skupno rabo datotek.
+Drugi dan smo morali narediti v pythonu program ki bo preveril informacije porabe diska.
+Tretji dan smo morali pa narediti program ki bo zmožen zapisovati in brati .txt datoteko z pomočjo komand read and write.
+Četrti dan smo morali raziskati kaj je VCS, SVN, git, mercurial in njihove prednosti oz slabosti.
+VCS so sistemi za nadzor različic so kategorija programskih orodij, ki pomagajo beležiti spremembe datotek, tako da beležijo spremembe v kodi. Razlika centraliziranega od porazdeljenega sistema je, da deluje na relaciji odjemalec-strežnik. Skladišče se nahaja na enem mestu in omogoča dostop številnim strankam. Medtem ko ima vsak uporabnik v porazdeljenem sistemu poleg osrednjega repoja na strani strežnika tudi lokalno kopijo repozitorija.
+Peti dan smo morali vstvariti git account in vse združiti skupaj.
